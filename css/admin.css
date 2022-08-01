@@ -1,0 +1,60 @@
+body {
+    font-family: "Montserrat";
+  
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat-Bold";
+  }
+  
+  p {
+    color: #8f8f8f;
+  }
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  /* Headings */
+  
+  .big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+  
+  
+  /* Containers */
+  
+  .container-fluid{
+    padding: 7% 15%;
+  }
+  
+  /* Sections */
+  
+  .colored-section {
+    background-color: #548CA8;
+    color: #fff;
+  }
+  
+  .white-section {
+    background-color: #fff;
+  }
+  
+  #cards-section{
+      padding: 3% ;
+      text-align: center;
+
+    }
+
+  .navbar{
+    background-color: #548CA8;
+  }
+   .progress-section{ 
+    border: 2px solid #548CA8 ;
+    color: black;
+    margin: 2rem 0;
+  } 
+  
+  .progress{
+        margin:1% 0;
+  }
